@@ -6,7 +6,7 @@ Sorawebui 是通过集成 OpenAI 的 Sora 模型，本项目为用户提供了�
 - 集成 Sora 模型，在线生成视频
   ![](/10.png)
 
-# 为什么使用 Next.js
+# 为什么使用 Next.js.....
 
 > Next.js 是一个基于 React 的服务端渲染框架。
 
